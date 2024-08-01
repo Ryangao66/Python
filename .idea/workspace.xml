@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4753ebbe-a5b5-4bdd-9992-979e4b32adf0" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Project_01" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_print_demo.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1_print_demo.executor": "Run",
+    "Python.P08.executor": "Run",
     "Python.P7 (1).executor": "Run",
     "Python.P8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
