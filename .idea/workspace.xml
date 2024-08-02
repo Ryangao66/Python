@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4753ebbe-a5b5-4bdd-9992-979e4b32adf0" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/../Project_01" afterDir="false" />
-=======
       <change afterPath="$PROJECT_DIR$/P12_数据类型.py" afterDir="false" />
->>>>>>> 8e19c51388a719f49f636c66709a0e2014958c33
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,9 +52,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1_print_demo.executor": "Run",
-<<<<<<< HEAD
-    "Python.P08.executor": "Run",
-=======
     "Python.P07 (1).executor": "Run",
     "Python.P07 .executor": "Run",
     "Python.P08.executor": "Run",
@@ -66,7 +59,6 @@
     "Python.P10.executor": "Run",
     "Python.P11.executor": "Run",
     "Python.P12_数据类型.executor": "Run",
->>>>>>> 8e19c51388a719f49f636c66709a0e2014958c33
     "Python.P7 (1).executor": "Run",
     "Python.P8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
