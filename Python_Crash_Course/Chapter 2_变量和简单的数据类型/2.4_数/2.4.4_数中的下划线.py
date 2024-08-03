@@ -1,3 +1,7 @@
+# 用_来把数字隔离开容易阅读
+# Owner: Ryan
+# Date: 04-Aug-2024
+
 universe_age = 14_000_000_000  # _不会打印出来
 print(universe_age)
 

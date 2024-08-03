@@ -1,3 +1,7 @@
+# 用f把字符串中插入变量
+# Owner: Ryan
+# Date: 04-Aug-2024
+
 first_name = "ada"
 last_name = "lovelace"
 full_name = f"{first_name} {last_name}"  # 字符串中插入变量
