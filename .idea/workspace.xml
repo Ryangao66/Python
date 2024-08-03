@@ -5,7 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4753ebbe-a5b5-4bdd-9992-979e4b32adf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/P2.3_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3_字符串/2.3.0_字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3_字符串/2.3.1_字符串大小写.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3_字符串/2.3.2_字符串中使用变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3_字符串/2.3.3_特殊符号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3_字符串/2.3.4_删除空白.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3_字符串/2.3.5_删除前缀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数/2.4.1_整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数/2.4.2_浮点数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数/2.4.3_整数和浮点数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数/2.4.4_数中的下划线.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数/2.4.5_同时给多个变量赋值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数/2.4.6_常量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习/2.10_最喜欢的数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习/2.3_个性化消息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习/2.4_调整名字大小写.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习/2.5_名言1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习/2.6_名言2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习/2.7_删除人命中的空白.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习/2.8_文件扩展名.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习/2.9_数字8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/P2.1_简单消息.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3_字符串/2.1_简单消息.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/P2.2_多条简单消息.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3_字符串/2.2_多条简单消息.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/P2.3_.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +51,12 @@
     &quot;assignee&quot;: &quot;Ryangao66&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Ryangao66/Python_For_Beginners.git&quot;,
-    &quot;accountId&quot;: &quot;6e581a73-0bb9-4673-94ba-5e7a592b014a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ryangao66/Python.git",
+    "accountId": "6e581a73-0bb9-4673-94ba-5e7a592b014a"
   }
-}</component>
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -54,6 +77,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1_print_demo.executor": "Run",
+    "Python.2.10_最喜欢的数.executor": "Run",
+    "Python.2.3.1_字符串大小写.executor": "Run",
+    "Python.2.3.3_特殊符号.executor": "Run",
+    "Python.2.3.4_删除空白.executor": "Run",
+    "Python.2.3.5_删除前缀.executor": "Run",
+    "Python.2.3_个性化消息.executor": "Run",
+    "Python.2.4.1_整数.executor": "Run",
+    "Python.2.4.2_浮点数.executor": "Run",
+    "Python.2.4.3_整数和浮点数.executor": "Run",
+    "Python.2.4.4_数中的下划线.executor": "Run",
+    "Python.2.4.5_同时给多个变量赋值.executor": "Run",
+    "Python.2.4_调整名字大小写.executor": "Run",
+    "Python.2.5_名言1.executor": "Run",
+    "Python.2.6_名言2.executor": "Run",
+    "Python.2.7_删除人命中的空白.executor": "Run",
+    "Python.2.8_文件扩展名.executor": "Run",
+    "Python.2.9_数字8.executor": "Run",
     "Python.P07 (1).executor": "Run",
     "Python.P07 .executor": "Run",
     "Python.P08.executor": "Run",
@@ -65,6 +105,7 @@
     "Python.P19_dictionary.executor": "Run",
     "Python.P2.1_简单消息.executor": "Run",
     "Python.P2.2_多条简单消息.executor": "Run",
+    "Python.P2.3_.executor": "Run",
     "Python.P20_for_loop.executor": "Run",
     "Python.P21_while_loop.executor": "Run",
     "Python.P22_string_formatting.executor": "Run",
@@ -75,16 +116,20 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "/Users/ryangao/PycharmProjects/Python",
+    "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习" />
+      <recent name="$PROJECT_DIR$/Python_Crash_Course/Charpter 2" />
+      <recent name="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3字符串" />
       <recent name="$PROJECT_DIR$/Python_For_Beginners" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.P2.2_多条简单消息">
-    <configuration name="P18_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2.10_最喜欢的数">
+    <configuration name="2.10_最喜欢的数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_For_Beginners/P18_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习/2.10_最喜欢的数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P21_while_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.4.3_整数和浮点数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_For_Beginners/P21_while_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数/2.4.3_整数和浮点数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P22_string_formatting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.4.4_数中的下划线" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_For_Beginners/P22_string_formatting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数/2.4.4_数中的下划线.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P2.1_简单消息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.4.5_同时给多个变量赋值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/P2.1_简单消息.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.4_数/2.4.5_同时给多个变量赋值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P2.2_多条简单消息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.9_数字8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,135 +226,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/P2.2_多条简单消息.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习/2.9_数字8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.P2.1_简单消息" />
-      <item itemvalue="Python.P2.2_多条简单消息" />
-      <item itemvalue="Python.P21_while_loop" />
-      <item itemvalue="Python.P22_string_formatting" />
-      <item itemvalue="Python.P18_list" />
+      <item itemvalue="Python.2.10_最喜欢的数" />
+      <item itemvalue="Python.2.4.3_整数和浮点数" />
+      <item itemvalue="Python.2.4.4_数中的下划线" />
+      <item itemvalue="Python.2.4.5_同时给多个变量赋值" />
+      <item itemvalue="Python.2.9_数字8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.P2.2_多条简单消息" />
-        <item itemvalue="Python.P2.1_简单消息" />
-        <item itemvalue="Python.P22_string_formatting" />
-        <item itemvalue="Python.P21_while_loop" />
-        <item itemvalue="Python.P18_list" />
+        <item itemvalue="Python.2.10_最喜欢的数" />
+        <item itemvalue="Python.2.9_数字8" />
+        <item itemvalue="Python.2.4.5_同时给多个变量赋值" />
+        <item itemvalue="Python.2.4.4_数中的下划线" />
+        <item itemvalue="Python.2.4.3_整数和浮点数" />
       </list>
     </recent_temporary>
   </component>
