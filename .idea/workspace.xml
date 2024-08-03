@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4753ebbe-a5b5-4bdd-9992-979e4b32adf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/P21_while_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P22_string_formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/P2.1_简单消息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/P2.2_多条简单消息.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P20_for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/P20_for_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P07_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P07_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P08_varible.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P08_varible.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P10_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P10_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P11_comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P11_comment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P12_data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P12_data_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P14_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P14_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P15_if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P15_if_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P16_if_elif_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P16_if_elif_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P17_logic_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P17_logic_operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P18_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P18_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P19_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P19_dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P20_for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P20_for_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P21_while_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P21_while_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P22_string_formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P22_string_formatting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +79,8 @@
     "Python.P12_数据类型.executor": "Run",
     "Python.P18_list.executor": "Run",
     "Python.P19_dictionary.executor": "Run",
+    "Python.P2.1_简单消息.executor": "Run",
+    "Python.P2.2_多条简单消息.executor": "Run",
     "Python.P20_for_loop.executor": "Run",
     "Python.P21_while_loop.executor": "Run",
     "Python.P22_string_formatting.executor": "Run",
@@ -78,9 +93,14 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.P22_string_formatting">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python_For_Beginners" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.P2.2_多条简单消息">
     <configuration name="P18_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_For_Beginners" />
+      <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,51 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P18_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="P19_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_For_Beginners" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P19_dictionary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="P20_for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_For_Beginners" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P20_for_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_For_Beginners/P18_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +122,7 @@
       <method v="2" />
     </configuration>
     <configuration name="P21_while_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_For_Beginners" />
+      <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P21_while_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_For_Beginners/P21_while_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +144,7 @@
       <method v="2" />
     </configuration>
     <configuration name="P22_string_formatting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_For_Beginners" />
+      <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P22_string_formatting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_For_Beginners/P22_string_formatting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,20 +165,166 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="P2.1_简单消息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/P2.1_简单消息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P2.2_多条简单消息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/P2.2_多条简单消息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.P2.1_简单消息" />
+      <item itemvalue="Python.P2.2_多条简单消息" />
       <item itemvalue="Python.P21_while_loop" />
       <item itemvalue="Python.P22_string_formatting" />
       <item itemvalue="Python.P18_list" />
-      <item itemvalue="Python.P19_dictionary" />
-      <item itemvalue="Python.P20_for_loop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.P2.2_多条简单消息" />
+        <item itemvalue="Python.P2.1_简单消息" />
         <item itemvalue="Python.P22_string_formatting" />
         <item itemvalue="Python.P21_while_loop" />
         <item itemvalue="Python.P18_list" />
-        <item itemvalue="Python.P20_for_loop" />
-        <item itemvalue="Python.P19_dictionary" />
       </list>
     </recent_temporary>
   </component>
