@@ -1,8 +1,8 @@
-# temperature_list = [36.4, 36.6, 41.5, 38.1, 39.2, 36.7, 36.6, 39.2]
-# for temperature in temperature_list:
-#     if temperature >= 38:
-#         print(temperature)
-#         print("完球了，明天别来了")
+temperature_list = [36.4, 36.6, 41.5, 38.1, 39.2, 36.7, 36.6, 39.2]
+for temperature in temperature_list:
+    if temperature >= 38:
+        print(temperature)
+        print("完球了，明天别来了")
 
 temp_dict = {"啊猫": 37.5,
              "啊狗": 38.9,
