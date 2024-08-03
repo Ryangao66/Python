@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4753ebbe-a5b5-4bdd-9992-979e4b32adf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/P2.1_简单消息.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/P2.2_多条简单消息.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P07_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P07_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P08_varible.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P08_varible.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P10_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P10_math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P11_comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P11_comment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P12_data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P12_data_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P14_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P14_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P15_if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P15_if_else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P16_if_elif_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P16_if_elif_else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P17_logic_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P17_logic_operation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P18_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P18_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P19_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P19_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P20_for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P20_for_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P21_while_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P21_while_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P22_string_formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P22_string_formatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/P2.2_多条简单消息.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/P2.2_多条简单消息.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +75,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/Users/ryangao/PycharmProjects/Python",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
