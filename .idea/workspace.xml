@@ -5,11 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4753ebbe-a5b5-4bdd-9992-979e4b32adf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1.1_访问列表元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1.2_索引从0开始.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1.3_使用列表中的各个值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.2 修改、添加和删除元素/3.2.1_修改列表元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.2 修改、添加和删除元素/3.2.2_在列表中添加元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/练习/3.1_姓名.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/练习/3.2_问候语.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/练习/3.3_自己的列表.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/comment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3_字符串/2.1_简单消息.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3 字符串/2.1_简单消息.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3_字符串/2.2_多条简单消息.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3 字符串/2.2_多条简单消息.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3_字符串/2.3.0_字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3 字符串/2.3.0_字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3_字符串/2.3.1_字符串大小写.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3 字符串/2.3.1_字符串大小写.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3_字符串/2.3.2_字符串中使用变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3 字符串/2.3.2_字符串中使用变量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3_字符串/2.3.3_特殊符号.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3 字符串/2.3.3_特殊符号.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3_字符串/2.3.4_删除空白.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3 字符串/2.3.4_删除空白.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3_字符串/2.3.5_删除前缀.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.3 字符串/2.3.5_删除前缀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4_数/2.4.1_整数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4 数/2.4.1_整数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4_数/2.4.2_浮点数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4 数/2.4.2_浮点数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4_数/2.4.3_整数和浮点数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4 数/2.4.3_整数和浮点数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4_数/2.4.4_数中的下划线.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4 数/2.4.4_数中的下划线.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4_数/2.4.5_同时给多个变量赋值.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4 数/2.4.5_同时给多个变量赋值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4_数/2.4.6_常量.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.4 数/2.4.6_常量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.5_注释/2.5.1_注释.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.5 注释/2.5.1_注释.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.6_Python之禅/2.6_python之禅.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型/2.6 Python之禅/2.6_python之禅.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1.1_访问列表元素.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1 列表是什么/3.1.1_访问列表元素.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1.2_索引从0开始.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1 列表是什么/3.1.2_索引从0开始.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1.3_使用列表中的各个值.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1 列表是什么/3.1.3_使用列表中的各个值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_For_Beginners/P21_while_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_For_Beginners/P21_while_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +101,12 @@
     "Python.2.9_数字8.executor": "Run",
     "Python.3.1.1_访问列表元素.executor": "Run",
     "Python.3.1.2_索引从0开始.executor": "Run",
+    "Python.3.1.3_使用列表中的各个值.executor": "Run",
+    "Python.3.1_姓名.executor": "Run",
+    "Python.3.2.1_修改列表元素.executor": "Run",
+    "Python.3.2.2_在列表中添加元素.executor": "Run",
+    "Python.3.2_问候语.executor": "Run",
+    "Python.3.3_自己的列表.executor": "Run",
     "Python.P07 (1).executor": "Run",
     "Python.P07 .executor": "Run",
     "Python.P08.executor": "Run",
@@ -102,22 +129,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/Users/ryangao/PycharmProjects/Python",
+    "last_opened_file_path": "/Users/ryangao/PycharmProjects/Python/Python_Crash_Course/Chapter 3_列表简介/练习",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/练习" />
+      <recent name="$PROJECT_DIR$/Python_Crash_Course/Chapter 2_变量和简单的数据类型" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1_列表是什么" />
       <recent name="$PROJECT_DIR$/Python_Crash_Course" />
       <recent name="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/练习" />
       <recent name="$PROJECT_DIR$/Python_Crash_Course/Charpter 2" />
       <recent name="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3字符串" />
-      <recent name="$PROJECT_DIR$/Python_For_Beginners" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3.1.2_索引从0开始">
-    <configuration name="2.3.5_删除前缀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3.2.2_在列表中添加元素">
+    <configuration name="3.1.3_使用列表中的各个值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3_字符串" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1 列表是什么" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.3_字符串/2.3.5_删除前缀.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1 列表是什么/3.1.3_使用列表中的各个值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.6_python之禅" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.2_问候语" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.6_Python之禅" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Charpter 2/2.6_Python之禅/2.6_python之禅.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/练习/3.2_问候语.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.1.1_访问列表元素" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.2.1_修改列表元素" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,11 +201,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.2 修改、添加和删除元素" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1.1_访问列表元素.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.2 修改、添加和删除元素/3.2.1_修改列表元素.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.1.2_索引从0开始" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.2.2_在列表中添加元素" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.2 修改、添加和删除元素" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.1.2_索引从0开始.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/3.2 修改、添加和删除元素/3.2.2_在列表中添加元素.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.3_自己的列表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/comment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Crash_Course/Chapter 3_列表简介/练习/3.3_自己的列表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,19 +259,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2.3.5_删除前缀" />
-      <item itemvalue="Python.2.6_python之禅" />
-      <item itemvalue="Python.3.1.1_访问列表元素" />
-      <item itemvalue="Python.3.1.2_索引从0开始" />
-      <item itemvalue="Python.comment" />
+      <item itemvalue="Python.3.1.3_使用列表中的各个值" />
+      <item itemvalue="Python.3.2.1_修改列表元素" />
+      <item itemvalue="Python.3.2.2_在列表中添加元素" />
+      <item itemvalue="Python.3.2_问候语" />
+      <item itemvalue="Python.3.3_自己的列表" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3.1.2_索引从0开始" />
-        <item itemvalue="Python.3.1.1_访问列表元素" />
-        <item itemvalue="Python.comment" />
-        <item itemvalue="Python.2.6_python之禅" />
-        <item itemvalue="Python.2.3.5_删除前缀" />
+        <item itemvalue="Python.3.2.2_在列表中添加元素" />
+        <item itemvalue="Python.3.2.1_修改列表元素" />
+        <item itemvalue="Python.3.2_问候语" />
+        <item itemvalue="Python.3.3_自己的列表" />
+        <item itemvalue="Python.3.1.3_使用列表中的各个值" />
       </list>
     </recent_temporary>
   </component>
