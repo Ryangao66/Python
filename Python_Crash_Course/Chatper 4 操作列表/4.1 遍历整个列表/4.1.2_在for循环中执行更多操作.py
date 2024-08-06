@@ -4,9 +4,5 @@
 
 magicians = ["alice", "david", "carolina"]
 for person in magicians:
-    print(person)
-
-# 有帮助的命名规则
-# for cat in cats:
-# for dog in dogs:
-# for item in list_of_items:
+    print(f"{person.title()}, that was a great trick!")
+    print(f"I can't wait to see your next trick,{person.title()}.\n")
