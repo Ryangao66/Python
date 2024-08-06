@@ -9,9 +9,9 @@ print(cars)
 print("\nHere's the sorted list:")
 print(sorted(cars))
 
-print("\nHere's the reversed sorted list:")  #
-print(sorted(cars))  #
-
+print("\nHere's the reversed sorted list:")
+reversed_cars = sorted(cars, reverse=True)
+print(reversed_cars)
 
 print("\nHere's the original list again:")
 print(cars)
