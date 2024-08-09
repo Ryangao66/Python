@@ -16,6 +16,8 @@ BMI = 体重 / (身高 ** 2)
 肥胖: user_BMI > 30
 """
 
+weight = float(input("请输入你的体重（单位：公斤）？： "))
+height = float(input("请输入你的身高（单位：米）？： "))
 def calculate_BMI(weight, height):
     BMI = weight / (height ** 2)
     if BMI <= 18.5:
@@ -29,5 +31,5 @@ def calculate_BMI(weight, height):
     print(f"你的BMI指数为: {category}")
     return BMI
 
-result = calculate_BMI(84, 185)
+result = calculate_BMI(weight, height)
 print(result)
