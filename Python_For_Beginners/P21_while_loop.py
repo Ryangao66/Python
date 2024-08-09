@@ -7,23 +7,23 @@ list1 = ["你", "好", "吗", "兄", "弟"]
 for x in list1:
     print(x)
 
-print(("============ "))
+print(("============"))
 
 for x in range(len(list1)):
     print(list1[x])
 
-print(("============ "))
+print(("============"))
 
 i = 0
 
 while i < len(list1):
     print(list1[i])
     i = i + 1
-print(("============ "))
+print(("============"))
 
 for i in range(5, 10):
     print(i)
-print(("============ "))
+print(("============"))
 
 # https://youtu.be/moAHW5PEHM8?list=PL5y2P1AqpsZ-79NNUImnYdCHH5jwoyzSa&t=116
 
@@ -49,3 +49,15 @@ print("您输入的数字平均值为" + str(result))
 #     x = x + 1
 # while x == str("q"):
 #     print("游戏结束，你的结果是")
+
+
+# 用while打印str
+list = ["joey", "chandler", "ross",]
+list.insert(0, "monica")
+list.append("Phoebe")
+list.append("Rachael")
+
+name = 0
+while name < len(list):
+    print(list[name].upper())
+    name = name + 1  # name += 1

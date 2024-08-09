@@ -9,8 +9,20 @@ guest_list.insert(0, "rachael")
 guest_list.append("phoebe")
 guest_list.insert(2, "monica")
 print("Here's the guest list of tonight's dinner!")
-for name in guest_list:
-    print(name.title())
+
+# for loop to print names:
+# for name in guest_list:
+#     print(name.title())
+
+# use range() to print names:
+# for name in range(len(guest_list)):
+#     print(guest_list[name].upper())
+
+# use while to print names:
+name = 0
+while name < len(guest_list):
+    print(guest_list[name].lower())
+    name += 1
 
 num = len(guest_list)
 print(f"There wil be {num} person come here to have dinner with you!")
