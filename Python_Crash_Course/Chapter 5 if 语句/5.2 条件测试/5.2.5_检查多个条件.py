@@ -21,6 +21,7 @@ print(age_0 >= 21 or age_1 >= 21)
 age_0 = 17
 print(age_0 >= 21 or age_1 >= 21)
 
-
-
-
+# 简写一行检查两个条件
+a = 2
+b = 5
+print("YES") if a == b else print("NO")

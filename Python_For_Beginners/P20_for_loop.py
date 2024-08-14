@@ -1,3 +1,4 @@
+'''
 temperature_list = [36.4, 36.6, 41.5, 38.1, 39.2, 36.7, 36.6, 39.2]
 for temperature in temperature_list:
     if temperature >= 38:
@@ -32,3 +33,20 @@ total = 0
 for i in range(1,101):
     total = total + i
 print(total)
+'''
+
+# When the value is banana, jump directly to the next item.
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+    if x == "banana":
+        continue
+    print(x)
+
+# When the value is banana, Exit the loop
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+    if x == "banana":
+        break
+    print(x)
