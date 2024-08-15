@@ -32,3 +32,26 @@ if query in slang_dict:
 else:
     print("您查询的流行语暂未收录。")
     print("当前本词典收入的词条数为： " + str(len(slang_dict)) + "条。")
+
+
+# 创造一个字典，把字典中的键值对打印出来
+
+favorite_languages = {"jen": "python",
+    "sarah": "c",
+    "edward": "rust",
+    "phil": "python"
+    }
+for name, language in favorite_languages.items():
+    print(name.upper())
+    print(language.lower())
+
+
+# 创建一个字典
+favorite_languages = {"jen": "python",
+    "sarah": "c",
+    "edward": "rust",
+    "phil": "python"
+    }
+print(favorite_languages)
+# 在字典中取特定值
+print(f"Sarah favorite language is {favorite_languages["sarah"].title()}.")

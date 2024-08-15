@@ -11,5 +11,5 @@ favorite_languages = {"jen": "python",
     "phil": "python"
     }
 print(favorite_languages)
-# 打印出某个人最喜欢的语言
+# 在字典中取特定值
 print(f"Sarah favorite language is {favorite_languages["sarah"].title()}.")
