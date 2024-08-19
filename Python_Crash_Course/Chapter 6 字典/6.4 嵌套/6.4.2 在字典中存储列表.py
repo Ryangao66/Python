@@ -1,5 +1,5 @@
 # Owner: Ryan
-# Date: 18-Aug-2024
+# Date: 19-Aug-2024
 
 """ 格式
 name = {
@@ -35,4 +35,18 @@ for flavor in dumplings["flavors"]:
 print("两种口味")
 
 """
+
+favorite_language = {"jen": ["python", "rust"],
+                     "sarah": ["c"],
+                     "edward": ["rust", "go"],
+                     "phil": ["python", "haskell"]
+                     }
+
+# 把字典中的key和value单独取出来
+for name, languages in favorite_language.items():
+    # 先调用单独的key
+    print(f"{name.title()}'s favorite languages are: ")
+    # 在用for loop 调用在list中的value
+    for language in languages:
+        print(f"\t{language.title()}")
 
