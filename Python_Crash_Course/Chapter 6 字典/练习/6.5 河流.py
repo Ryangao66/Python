@@ -11,7 +11,7 @@ rivers = {"nile": "egypt",
        "danube": "vienna",
        }
 for name, city in rivers.items():
-    print(f"{name.title()} runs through {city.title()}")
+    print(f"The {name.title()} runs through {city.title()}")
 
 # 只打印key值
 print("\n# 只打印key值")

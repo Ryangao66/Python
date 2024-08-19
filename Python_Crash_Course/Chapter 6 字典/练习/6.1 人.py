@@ -6,10 +6,12 @@
 
 person1 = {"first_name": "CHANDLER",
            "last_name": "bing",
-           "age": "35",
+           "age": 35,
            "city": "NY"}
 print(person1)
 
+print(f"Full name: {person1["first_name"].title()} {person1["last_name"].title()}")
+print("Full name: " + person1["first_name"].title() + person1["last_name"].title())
 print(f"First name: {person1.get("first_name").title()}")
 print(f"Last name: {person1.get("last_name").title()}")
 print(f"Age: {person1.get("age")}")
