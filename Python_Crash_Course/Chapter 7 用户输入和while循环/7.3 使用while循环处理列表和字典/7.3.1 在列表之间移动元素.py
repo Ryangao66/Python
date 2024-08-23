@@ -1,5 +1,6 @@
 # Owner: Ryan
-# Date: 21-Aug-2024
+# Date: 22-Aug-2024
+
 
 # 创建一个待验证的用户列表
 unconfirmed_users = ["alice", "brian", "candace"]
@@ -18,4 +19,5 @@ while unconfirmed_users:
 print("\nThe following users have been confirmed:")
 for confirmed_user in confirmed_users:
     print(confirmed_user.title())
+
 
