@@ -1,15 +1,18 @@
 # Owner: Ryan
-# Date: 28-Aug-2024
+# Date: 29-Aug-2024
+# 从列表中删除特定元素
+
+orders = ["veggie classic", "pastrami", "spinach & corn", "chicken crispy","pastrami", "chicken patty", "pastrami"]
+sold_out = []
+
+print("Pastrami has been sold out.")
+
+while 'pastrami' in orders:
+    removed = orders.remove("pastrami")
+
+print(f"\nbut we still have {orders} in stock!")
 
 
-orders = ["veggie classic", "spinach & corn", "chicken crispy", "chicken patty", "chicken chunks"]
-finished = []
 
-while orders:
-    cooking = orders.pop()
-    print(f"We are cooking your {cooking.title()} sandwich. ")
-    finished.append(cooking)
 
-print(f"\nWe have done the following orders: ")
-for finish in finished:
-    print(f"\t{finish.title()}")
+

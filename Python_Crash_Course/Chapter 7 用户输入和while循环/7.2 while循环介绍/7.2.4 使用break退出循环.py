@@ -35,7 +35,7 @@ print(f"You have visited {visited_city} before.")
 """
 
 prompt = "Please enter the name of a city you have visited,"
-prompt += "\n(Enter 'quit' when you are finished: )"
+prompt += "\nEnter 'quit' when you are finished: "
 
 while True:
     city = input(prompt)
