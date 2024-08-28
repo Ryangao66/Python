@@ -33,3 +33,4 @@ def calculate_BMI(weight, height):
 
 result = calculate_BMI(weight, height)
 print(result)
+
