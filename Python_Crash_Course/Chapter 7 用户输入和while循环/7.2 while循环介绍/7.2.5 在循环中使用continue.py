@@ -5,7 +5,7 @@
 current_number = 0
 while current_number < 10:
     current_number += 1
-    # 如果可以被2整除，就跳过，所以只打印出奇数
+    # 如果可以被2整除，就跳过，所以只打印出奇数 continue = skip
     if current_number % 2 == 0:
         continue
 

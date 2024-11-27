@@ -1,7 +1,7 @@
 # Owner: Ryan
 # Date: 05-Sep-2024
 
-"""
+
 # 首先创建一个列表，其中包含要打印的设计
 unprinted_designs = ['phone case', 'robot pendant', 'dodecahedron']
 completed_models = []
@@ -17,7 +17,7 @@ while unprinted_designs:
 print("\nThe following modes have been printed: ")
 for completed_model in completed_models:
     print(f"\t{completed_model}")
-"""
+
 
 # 用定义函数写法
 
@@ -43,3 +43,23 @@ def show_completed_models(completed_models):
 
 print_models(unprinted_designs, completed_models)
 show_completed_models(completed_models)
+
+"""
+更容易理解的写法
+unprinted = ['phone case', 'robot pendant', 'dodecahedron']
+completed = []
+
+
+def print_models(unprinted, completed):
+    while unprinted:
+        current = unprinted.pop()
+        print(f"Printing design: {current}")
+        completed.append(current)
+
+
+def show_completed_models(completed):
+    print("\nThe following models have been printed: ")
+    for model in completed:
+        print(model)
+
+"""

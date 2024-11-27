@@ -27,4 +27,3 @@ while flag:
     # 不是quit的时候，while循环继续
     else:
         print(message)
-
